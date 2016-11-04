@@ -46,7 +46,7 @@
 
 ### Performance Testing for GDB
 
-**演讲者：齐尧
+**演讲者：齐尧**
 
 简介：
 
@@ -67,7 +67,7 @@ performance problems in the future.
 
 ### Design and Implementation of GCC Register Allocation
 
-**演讲者：程皇嘉(Kito Cheng)
+**演讲者：程皇嘉(Kito Cheng)**
 
 晶心科技(Andestech)工程師，目前專注於 nds32 CPU 的 GCC，進行效能及程式大小的調校。
 
@@ -83,7 +83,7 @@ GCC 4.8 時LRA 正式上路，預計將慢慢取代 GCC 中數一數二複雜的
 
 ### pyOCD — gdbserver for ARM CMSIS-DAP
 
-**演讲者：王哲宇
+**演讲者：王哲宇**
 
 简介：pyOCD是目前mbed社区为M系列MCU所提供的调试服务工具。该工具主要基于
 CMSIS DAP接口，为不同的M系列厂商提供了统一的调试接口。pyOCD和目前的
@@ -98,7 +98,7 @@ remote stub的一些异同。详细介绍pyOCD的内部实现和各模块的功�
 
 ### Xposed for ART on Android
 
-**演讲者：唐文力(Luba Tang)
+**演讲者：唐文力(Luba Tang)**
 
 简介：本次 talk 會介紹 Xposed 移植到 ART 平台上所會遇到的問題與對應的解法。
 Xposed 提供 Android 上一個可以跨 framework 的平台，大大縮減了 Android 系統維護的成本。
@@ -112,7 +112,7 @@ Xposed 提供 Android 上一個可以跨 framework 的平台，大大縮減了 A
 
 ### 开源工具构建ARM JTAG调试环境
 
-**演讲者：翟京(Orson Zhai)
+**演讲者：翟京(Orson Zhai)**
 
 简介：
 
@@ -126,7 +126,7 @@ Xposed 提供 Android 上一個可以跨 framework 的平台，大大縮減了 A
 
 ### Android的全系统符号执行工具-Android\_S2E
 
-**演讲者：康烁
+**演讲者：康烁**
 
 简介：
 
